@@ -25,7 +25,7 @@ An interactive Sales Analysis Dashboard developed using Microsoft Power BI to an
 - Track sales trends over time.
 
 ## Dashboard Preview
-Add your dashboard screenshot here.
+
 <img width="1340" height="746" alt="image" src="https://github.com/user-attachments/assets/a6f9e8dd-00d3-4844-bfe6-bf7d6df81c03" />
 <img width="1327" height="742" alt="image" src="https://github.com/user-attachments/assets/1b5744ad-c21f-4816-8722-30678562804d" />
 ![Uploading image.png…]()
